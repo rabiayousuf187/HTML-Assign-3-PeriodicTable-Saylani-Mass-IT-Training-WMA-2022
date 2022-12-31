@@ -1,0 +1,75 @@
+table tbody tr td p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+table tbody tr td{
+    border-radius: 6px;
+    border-color: #ffffff;
+}
+
+tr.heading td {
+    border: none;
+    /* background: aqua; */
+    padding: 0px;
+}
+
+tr.heading td p{
+    font-size: 60px;
+    font-weight: 600;
+}
+.ele{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.em-ele{
+    border: none;
+}
+
+.special-ele {
+    padding: 0px;
+}
+
+.sp-ele-text {
+    font-size: 0.6em;
+}
+.alkaline {
+    background-color: #f5a720;
+    color: white;
+}
+.alkali {
+    background: #ee0902;
+    color: white;
+}
+.metalloids {
+    background: #ffe900;
+}
+.metal2 {
+    background: #4100419c;
+}
+.metal3 {
+    background: #9bbfe2;
+}
+.reactive{
+    background-color: #9ec87c;
+}
+.chem{
+    background-color: #c3c3c3;
+}
+.noble{
+    background: #f3a4b2;
+}
+
+/* table tr td:nth-child(2) {
+    background: #ccc;
+} */
+
+.ele-lanth{
+    background-color: #47a3c9;
+    color: white;
+}
+
+.ele-actin {
+    background-color: #52d6a7;
+}
